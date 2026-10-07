@@ -1,0 +1,32 @@
+[
+    {
+        "text": "написати звіт",
+        "completed": false,
+        "deadline": "2026-10-10"
+    },
+    {
+        "text": "приготувати їсти",
+        "completed": true,
+        "deadline": "2026-10-07"
+    },
+    {
+        "text": "зробити звіт із лаб роботи",
+        "completed": false,
+        "deadline": "2026-10-10"
+    },
+    {
+        "text": "прочитати 10 сторінок книги",
+        "completed": false,
+        "deadline": "2026-10-08"
+    },
+    {
+        "text": "здати лаб роботу",
+        "completed": false,
+        "deadline": "2026-10-10"
+    },
+    {
+        "text": "записати код",
+        "completed": false,
+        "deadline": ""
+    }
+]
